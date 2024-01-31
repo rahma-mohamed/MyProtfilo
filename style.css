@@ -313,6 +313,10 @@ section{
         /* margin-bottom: 1.5rem; */
         letter-spacing: 2px;
     }
+    .main{
+        background-color: #eee;
+        background-image: none;
+    }
 
 }
 @media (max-width:300px){
@@ -350,6 +354,10 @@ section{
         margin: 15px;
         transition: 0.7s ease;
         box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
+    }
+    .main{
+        background-color: #eee;
+        background-image: none;
     }
 
 }
