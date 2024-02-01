@@ -316,6 +316,13 @@ section{
     .main{
         background-color: #eee;
         background-image: none;
+        min-height: 50vh;
+    }
+    .main h2{
+        font-size: 2em;
+    }
+    .social-icons{
+        margin-right: 10px;
     }
 
 }
@@ -326,20 +333,20 @@ section{
     .contaier-imgas{
         display: none;
     }
-    /* .contaier-texts{
+    .contaier-texts{
         width: 100%;
         display: grid;
     }
     .about .contaier-texts h5{
-        font-size: 1.37em;
+        font-size: 1.5em;
         margin-bottom: 1.5em;
         
     }
     .about .contaier-texts p{
        color: #000;
         line-height: 1.3em;
-        font-size: 0.7em;
-    } */
+        font-size: 1.5em;
+    }
     .foter{
         display: grid;
         gap: 10px;
@@ -358,6 +365,13 @@ section{
     .main{
         background-color: #eee;
         background-image: none;
+        min-height: 50vh;
+    }
+    .main h2{
+        font-size: 2em;
+    }
+    .social-icons{
+        margin-right: 10px;
     }
 
 }
